@@ -1,5 +1,5 @@
-# DIO Live Coding AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
+# DIO Live Coding AWS BigData
+Repositório Criando seu Ecossistema de Big Data na Nuvem do Dio Live Coding com AWS EMR e Python
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
 ## Instruções
